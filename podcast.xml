@@ -9,10 +9,7 @@
     <item>
       <title>Week 1 Day 1 - Niagara Architecture Fundamentals</title>
       <description>Understanding stations, platform daemon, and system architecture.</description>
-      <enclosure 
-url="https://raw.githubusercontent.com/ronaldmjohnson-stack/Niagara-Mastery-Podcast/main/Niagara_Mastery_Week1_Day1.mp3"
-length="82540000"
-type="audio/mpeg"/>      <guid>episode1</guid>
+   <enclosure url="https://raw.githubusercontent.com/ronaldmjohnson-stack/Niagara-Mastery-Podcast/main/Niagara_Mastery_Week1_Day1.mp3" length="82540000" type="audio/mpeg"/>
     </item>
 
   </channel>
