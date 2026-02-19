@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Niagara Mastery</title>
+    <link>https://github.com/ronaldmjohnson-stack/Niagara-Mastery-Podcast</link>
+    <description>Daily Niagara Tridium mastery lessons for advanced BMS engineers.</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Week 1 Day 1 - Niagara Architecture Fundamentals</title>
+      <description>Understanding stations, platform daemon, and system architecture.</description>
+      <enclosure url="https://raw.githubusercontent.com/ronaldmjohnson-stack/Niagara-Mastery-Podcast/main/Niagara_Mastery_Week1_Day1.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>episode1</guid>
+    </item>
+
+  </channel>
+</rss>
